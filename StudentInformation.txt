@@ -1,0 +1,7 @@
+StudentID,StudentName, marks, Gender
+1, aayushi, 80, female
+2, suthan, 90, male
+3, kishan, 85, male
+4, sankar, 87, male
+5, jenu, 88, male
+6, delina, 80, female
